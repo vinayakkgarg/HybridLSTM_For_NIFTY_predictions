@@ -3,5 +3,5 @@ Used long short-term memory networks to conduct 3 experiments for predicting fut
 
 ### Architecture of HybridLSTM model:
 
-![Hybrid LSTM architecture](images/hybrid_arch.png)
+![Hybrid LSTM architecture](images/hybrid_architecture.png)
 
